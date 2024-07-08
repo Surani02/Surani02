@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Surani
 
 - 🌱 I’m currently studying BScHons in Artificial Intelligence at the University of Moratuwa.
-- 👀 I’m interested in Artificial Intelligence and Machine Learning, Data Science, Programming, Open Source, Web Development, and Photography.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Generative AI, Data Science, Programming, Open Source, Web Development, music, and Photography.
 - 💞️ I’m looking to collaborate on projects aligned with my future learning goals and career aspirations.
 - 📫 How to Reach Me
 
