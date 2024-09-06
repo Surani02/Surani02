@@ -8,7 +8,7 @@
     - **Email:** suraninaranpanawa@gmail.com
     - **LinkedIn:** https://www.linkedin.com/in/-surani-/
     - **Facebook:** https://www.facebook.com/SUR4NI/
-    - **GitHub:** https://github.com/Surani02)
+    - **GitHub:** https://github.com/Surani02
 
 Let's connect and work on exciting projects together! 🚀
 
