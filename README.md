@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Surani
 
 - 🌱 I’m currently studying BScHons in Artificial Intelligence at the University of Moratuwa.
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Generative AI, Data Science, Programming, Open Source, Web Development, music, and Photography.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Generative AI, Programming, Open Source, Music, and Photography.
 - 💞️ I’m looking to collaborate on projects aligned with my future learning goals and career aspirations.
-- 📫 How to Reach Me
+- 📫 How to Reach Me:
 
     - **Email:** suraninaranpanawa@gmail.com
     - **LinkedIn:** https://www.linkedin.com/in/-surani-/
